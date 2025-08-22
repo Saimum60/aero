@@ -1,0 +1,47 @@
+.ban .bs{
+    padding-top: 191px;
+}
+.bs button{
+    padding: 3px 2px 3px 0px;
+    border-radius: 20px;
+    border: 1px solid #000000;
+    background: #ffff;
+}
+.bs button span{
+    background: #FAD7C4;
+    border-radius: 50%;
+   padding-right: 4px;
+    width: 35px;
+}
+.bs button span .ball{
+    width: 21px;
+    height: 25px;
+}
+ .ban .bs h4{
+    width: 456px;
+    font-family: "REM", sans-serif;
+    font-size: 36px;
+    line-height: 45px;
+    font-weight: 500;
+    color: #0B0B0B;
+    padding: 45px 0px 32px;
+ }
+ .ban .bs p{
+    
+    font-family: "REM", sans-serif;
+    font-size: 18px;
+    line-height: 28px;
+    font-weight: 400;
+    color: #0B0B0B;
+    padding-bottom: 37px;
+ }
+ .ban .mn{
+    padding-top: 94px;
+ }
+ .ban .lo button{
+    padding: 9px 23px 9px 33px;
+    background: #EA580C;
+    color: #ffff;
+    border: none;
+    border-radius: 5px;
+ }

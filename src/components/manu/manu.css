@@ -1,0 +1,30 @@
+.bar a{
+    font-family: "REM", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color: #0B0B0B;
+}
+.bar{
+    column-gap: 43px;
+}
+.bar a:hover{
+    color: #EA580C;
+}
+.bit button{
+    padding: 18px 60px;
+    font-family: "REM", sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    border: none;
+    border-radius: 20px;
+    background: #EA580C;
+    color: #ffff;
+}
+.bit button span{
+    padding-right: 30px;
+}
+.bit button span .fd{
+    color: #fff;
+    width: 25px;
+    height: 25px;
+}
