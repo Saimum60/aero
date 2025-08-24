@@ -8,10 +8,10 @@ import { FaCloudDownloadAlt } from "react-icons/fa";
 
 const Manu = () => {
   return (
-    <Navbar >
-      <Container className='nav'>
-        <Navbar.Brand href="#home"><img src={Logo} alt="" /></Navbar.Brand>
-        <Navbar.Toggle aria-controls="basic-navbar-nav" />
+     <Navbar expand="lg" className='manu-bg'>
+      <Container >
+        <Navbar.Brand href="#home"><img className='ewq' src={Logo} alt="" /></Navbar.Brand>
+        <Navbar.Toggle className='tyu' aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="mx-auto bar">
             <Nav.Link href="#home">Home</Nav.Link>

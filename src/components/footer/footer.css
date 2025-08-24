@@ -1,5 +1,5 @@
 .footer {
-    padding: 109px;
+    padding: 109px 0px;
 }
 
 .fot {
@@ -9,6 +9,7 @@
     background: #FDEDE8;
     border: 1px solid #FAD0BC;
     border-radius: 15px;
+    position: relative;
 
 }
 
@@ -35,4 +36,32 @@
     font-size: 16px;
     line-height: 24px;
     font-weight: 500;
+}
+.fot .lot{
+    width: 1px;
+    height: 82px;
+    background: #FAD0BC;
+    position: absolute;
+    top: 26px;
+    left: 73px;
+}
+
+ @media (max-width: 575px){
+    .fot{
+        max-width: 100%;
+        row-gap: 20px;
+        
+
+    }
+    .fot .ut h4{
+    font-size: 16px;
+    
+}
+    .fot .ut p{
+    font-size: 12px;
+    max-width: 90%;
+    
+}
+
+    
 }

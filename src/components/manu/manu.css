@@ -28,3 +28,27 @@
     width: 25px;
     height: 25px;
 }
+
+@media (max-width: 991px) { 
+     .manu-bg .ewq{
+        width: 50%;
+        
+     }
+     .manu-bg .bar{
+        text-align: center;
+     }
+     .manu-bg .bit{
+        text-align: center;
+        padding-top: 20px;
+     }
+     .manu-bg .bit button{
+        padding: 10px 25px;
+     }
+     .manu-bg .bit button span{
+        padding-right: 5px;
+     }
+
+    
+}
+
+

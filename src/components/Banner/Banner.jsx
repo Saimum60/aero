@@ -13,7 +13,9 @@ const Banner = () => {
         <Row>
           <Col lg={6}>
             <div className="bs">
-              <button> <span><FaRegBell className='ball'/></span>Startup Business</button>
+              <div className="lop">
+                <button> <span><FaRegBell className='ball'/></span>Startup Business</button>
+              </div>
               <h4>Empowering startups to fuel
               their business growth</h4>
             <p>Eu posuere mi sed purus proin quisque molestie. Ut amet, at amet,
